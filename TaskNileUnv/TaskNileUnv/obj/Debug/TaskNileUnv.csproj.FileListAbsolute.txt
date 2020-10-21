@@ -1,0 +1,10 @@
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\bin\Debug\TaskNileUnv.exe.config
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\bin\Debug\TaskNileUnv.exe
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\bin\Debug\TaskNileUnv.pdb
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\obj\Debug\TaskNileUnv.csprojAssemblyReference.cache
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\obj\Debug\TaskNileUnv.Form1.resources
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\obj\Debug\TaskNileUnv.Properties.Resources.resources
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\obj\Debug\TaskNileUnv.csproj.GenerateResource.cache
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\obj\Debug\TaskNileUnv.csproj.CoreCompileInputs.cache
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\obj\Debug\TaskNileUnv.exe
+C:\Users\SALMA\source\repos\TaskNileUnv\TaskNileUnv\obj\Debug\TaskNileUnv.pdb
